@@ -3,11 +3,10 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3113347335185220"
-     crossorigin="anonymous"></script>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Daytips odds Freebets tips,Unlimited odds daily free daily analysed by daytips machine to predictions accurately</title>
+    <title>daytips xyz</title>
     <link rel="stylesheet" type="text/css" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Trumbowyg/2.19.1/ui/trumbowyg.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -123,24 +122,7 @@
     </header>
 
     <div class="topnav" id="myTopnav">
-       <a href="https://daytips.xyz/tips" class="active">Best-Tips</a>
-        <a href="https://daytips.xyz/Free-tips">Free(tips)</a>
-        <a href="https://daytips.xyz/livescores.html">Livescore</a>
-        <a href="https://daytips.xyz/footballlove.php">Football Love</a>
-        <a href="https://web.daytips.xyz">Web-Solution</a>
-        <a href="https://daytips.xyz/betpredictions.html">Jan-March 2023</a>
-        <a href="https://daytips.xyz/worldcup.html">Worldcup</a>
-        <a href="https://daytips.xyz/Cryptonews.html">Cryptos</a>
-        <a href="https://daytips.xyz/livestream.html">Soccer-streaming</a>
-        <a href="https://daytips.xyz/apks/">Apk-downloads</a>
-        <a href="https://daytips.xyz/blogtruehost.html">Cheap-Domain-Names</a>
-        <a href="https://daytips.xyz/england/epl/index.php">Epl(stats)</a>
-        <a href="https://www.daytips.xyz/jumiashopping.html">Jumia</a>
-        <a href="https://daytips.xyz/htft-prediction.html">HT/FT</a>
-        <a href="https://www.daytips.xyz/sketchwarepro.html">Sketchware</a>
-        <a href="https://daytips.xyz/">Back Home</a>
-        <a href="https://daytips.xyz/Dashboard/register.php" style="color: green;">Register(free vip)</a>
-        <a href="https://daytips.xyz/Dashboard/login.php" style="color: green;">Login(free vip)</a>
+       <a href="index.php" class="active">daytips.xyz Best-Tips</a>
         <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
         <div style="padding-center: 16px">
             <h2>@www.daytips.xyz</h2> 
@@ -181,49 +163,7 @@
     include('epl/t.php'); // You can also use require('content.php') if you want to make it mandatory
     ?>
  </div>
-</div>
-<div id="laliga-tab">
-<?php
-    // Include the content of another PHP file
-    include('laliga/t.php'); // You can also use require('content.php') if you want to make it mandatory
-    ?>
-</div>
- <div id="bundesliga-tab">    
-<?php
 
-    // Include the content of another PHP file
-    include('bundesliga/t.php'); // You can also use require('content.php') if you want to make it mandatory
-    ?>
- 
-</div>
-<div id="championship-tab">    
-<?php
-
-    // Include the content of another PHP file
-    include('championship/t.php'); // You can also use require('content.php') if you want to make it mandatory
-    ?>
- 
-</div>
-<div id="eredivisie-tab">
-<?php
-    // Include the content of another PHP file
-    include('ne-e/t.php'); // You can also use require('content.php') if you want to make it mandatory
-    ?>
-</div>
-<div id="turkey-tab">     
-<?php
-    // Include the content of another PHP file
-    include('turkey/t.php'); // You can also use require('content.php') if you want to make it mandatory
-    ?>
- 
-</div>
-<div id="seriea-tab">    
-<?php
-    // Include the content of another PHP file
-    include('seriea/t.php'); // You can also use require('content.php') if you want to make it mandatory
-    ?>
-</div>
-</div>
 <!DOCTYPE html>
 
 <html>
@@ -366,7 +306,7 @@ target="_self">shop with jumia</a>
   <footer style="background-color:
 
 steelblue">message 📲: 
-  daytonjosee@gmail.com or click<a href="mailto:daytonjosee@gmail.com">Send email</a>
+  daytonjosee@gmail.com or click<a href="mailto:joegatimu20@gmail.com">Send email</a>
 <h2>:::::::::::welcome for tommorrows predictions</h2>
 <p>stake responsibly and goodluck.</p>
 
