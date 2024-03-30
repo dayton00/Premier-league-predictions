@@ -12,5 +12,5 @@ to the epl mysql table used (p1920 for 2019-2020 matches result)
 (p2223 for 2022-2023 matches result)
 (p2324 for 2023-2024 matches result)
 eplfix this is the table containing the data of the fixtures
-// for more complete software of a file predicting more than 1 league as you see the database contain 51 tables .
+// for more complete software of a file predicting more than 1 (unlimited) leagues and admin dashboard as you see the database contain 51 tables .
 email the developer email: joegatimu20@gmail.com
