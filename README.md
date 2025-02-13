@@ -1,4 +1,5 @@
 # Premier-league-predictions
+
 fixtures on 2024 Epl php mysql software predicting the fixtures depending on the previous history
 //
 upload the files to the root directory or htcocs.
@@ -14,3 +15,6 @@ to the epl mysql table used (p1920 for 2019-2020 matches result)
 eplfix this is the table containing the data of the fixtures
 // for more complete software of a file predicting more than 1 (unlimited) leagues and admin dashboard as you see the database contain 51 tables .
 email the developer email: joegatimu20@gmail.com
+
+2. for more leagues and system with upto date and admin panel visit the sample
+www.sportyit.xyz
